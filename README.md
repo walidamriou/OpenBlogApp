@@ -32,9 +32,9 @@ this method helps us to the data from the url that made it by the method in the 
 
 ## __version 1__
 * __Notes about this version__  
-1- we focuse to develop an app that display just the post text & post info.
-2- we download the posts in json file & display the titles of the posts in the Home page.
-3- the title & the info of the post we will put it inside rectange.
-4- when click on the rectange of a post, the app move to the post of the post.  
+1- we focuse to develop an app that display just the post text & post info.  
+2- we download the posts in json file & display the titles of the posts in the Home page.  
+3- the title & the info of the post we will put it inside rectange.  
+4- when click on the rectange of a post, the app move to the post of the post.    
 * __Design__
 
