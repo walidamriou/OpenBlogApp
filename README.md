@@ -26,3 +26,6 @@ http://www.blogger.com/blogger.g?blogID=123456789101112#overview/src=dashboard
 
 * We get the data (posts) by HTTP request, to make the url that use in HTTP request we use: 
 https://developers.google.com/blogger/docs/3.0/reference/posts/list#try-it
+
+* we fetch or get the data from the internet (from the blog) by use this method: https://flutter.dev/docs/cookbook/networking/fetch-data  
+this method helps us to the data from the url that made it by the method in the last note.
