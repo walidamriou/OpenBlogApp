@@ -29,3 +29,12 @@ https://developers.google.com/blogger/docs/3.0/reference/posts/list#try-it
 
 * we fetch or get the data from the internet (from the blog) by use this method: https://flutter.dev/docs/cookbook/networking/fetch-data  
 this method helps us to the data from the url that made it by the method in the last note.
+
+## __version 1__
+__Notes about version 1__  
+* we focuse to develop an app that display just the post text & post info.
+* we download the posts in json file & display the titles of the posts in the Home page.
+* the title & the info of the post we will put it inside rectange.
+* when click on the rectange of a post, the app move to the post of the post. 
+__Design__
+
