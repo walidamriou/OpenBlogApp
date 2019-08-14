@@ -35,6 +35,6 @@ __Notes about this version__
 * we focuse to develop an app that display just the post text & post info.
 * we download the posts in json file & display the titles of the posts in the Home page.
 * the title & the info of the post we will put it inside rectange.
-* when click on the rectange of a post, the app move to the post of the post.   
+* when click on the rectange of a post, the app move to the post of the post.  
 __Design__
 
