@@ -8,7 +8,7 @@ more info here: https://choosealicense.com/licenses/agpl-3.0/
 
 Copyright and license notices must be preserved to: @walidamriou 
 
-### __Notes:__
+### __Notes__
 * In this project you need to get "blogger blog id" of you website or blog, to get it:  
 1- open your blog dashvoard on blogger.
 2- see the url of the page in the location bar.
