@@ -1,4 +1,4 @@
-# Flutter Blogger Application
+# Open Blog Application
 In this project, I will make a open source flutter application for my website & blog (www.walidamriou.com), but I will make it like a framework for make a flutter application for the websites & blogs that based blogger platform. 
 
 ### __project license__
