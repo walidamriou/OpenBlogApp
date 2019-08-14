@@ -22,4 +22,7 @@ http://www.blogger.com/blogger.g?blogID=123456789101112#overview/src=dashboard
 3- click "Get a Key".
 4- in "select or create project", choose  "create a new project".
 5- add the project name and wait.
-6- the website generate  "Blogger API key". 
+6- the website generate  "Blogger API key".  
+
+* We get the data (posts) by HTTP request, to make the url that use in HTTP request we use: 
+https://developers.google.com/blogger/docs/3.0/reference/posts/list#try-it
